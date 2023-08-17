@@ -25,7 +25,7 @@ The Asset Management System is a web application designed to help manage assets 
 
 Follow these steps to get the Asset Management System up and running on your local machine:
 
-1. Clone this repository: `git clone https://github.com/your-username/asset-management-system.git`
+1. Clone this repository: `git clone https://github.com/MaymonaArar/asset-management-system.git`
 2. Navigate to the project directory: `cd asset-management-system`
 3. Install Composer dependencies: `composer install`
 4. Create a copy of the `.env.example` file and name it `.env`: `cp .env.example .env`
